@@ -1,0 +1,9 @@
+07 bangla fake news - https://www.kaggle.com/code/nirmalgaud/bangla-english-misinformation-identifier
+
+08 - Bone Fracture Detection - https://www.kaggle.com/code/nirmalgaud/bone-fracture-detection
+
+09 - Skin Cancer Detection - https://www.kaggle.com/code/nirmalgaud/melanoma-cancer-detection
+
+10 - llama3 fine tuning - https://www.kaggle.com/code/nirmalgaud/fine-tune-llama-3-for-sentiment-analysis
+
+12 - hindi digits classification - https://www.kaggle.com/code/nirmalgaud/hindi-digits-classification/notebook

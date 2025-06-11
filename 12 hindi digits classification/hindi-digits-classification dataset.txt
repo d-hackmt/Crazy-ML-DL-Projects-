@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/sa9arr/handwritten-devanagari-character-dataset
+
+
+https://www.kaggle.com/code/nirmalgaud/hindi-digits-classification/notebook
